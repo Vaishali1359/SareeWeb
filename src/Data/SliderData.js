@@ -1,0 +1,25 @@
+// // src/data/sliderData.js
+// import img1 from '../Components/assets/image.png'
+
+// const sliderData = [
+//   {
+//     image: {img1},
+//     title: "Silken Royalty",
+//     subtitle: "Ready to wear sarees",
+//     description: "Starting at INR 3499"
+//   },
+//   {
+//     image: "https://i.pinimg.com/1200x/09/e7/cc/09e7cc2e24c2eb6d4f5dd9e9b0eb4a72.jpg",
+//     title: "Festive Vibes",
+//     subtitle: "Designer Collection",
+//     description: "New arrivals starting now"
+//   },
+//   {
+//     image: "https://i.pinimg.com/1200x/a5/ef/d9/a5efd983cf4667e726d18c9ff4026f15.jpg",
+//     title: "Elegant Drapes",
+//     subtitle: "Traditional Meets Modern",
+//     description: "Explore our latest looks"
+//   }
+// ];
+
+// export default sliderData;
