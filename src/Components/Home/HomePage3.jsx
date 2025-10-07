@@ -5,7 +5,7 @@ const HomePage3 = () => {
     {
       title: "Jamuni | Ready to Wear Purple Georgette Saree",
       image:
-        "https://i.pinimg.com/736x/cc/d5/ce/ccd5cea5ba65ffd618440dbaf163bf16.jpg",
+        "https://i.pinimg.com/736x/40/e7/9a/40e79a5d91ca563abf0be313f546f604.jpg",
       discountedPrice: 4099,
       originalPrice: 5999,
       isNew: false,

@@ -63,23 +63,6 @@ const HomePage7 = () => {
       <p className="text-sm text-gray-600 mt-10 max-w-xl mx-auto">
         Celebrating over 10,000+ customers and a commitment to making life convenient for working women.
       </p>
-
-      {/* WhatsApp Floating Button */}
-      <a
-        href="https://wa.me/your-number"
-        className="fixed bottom-6 right-6 bg-green-500 hover:bg-green-600 text-white p-3 rounded-full shadow-lg transition-all duration-300 z-50"
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Chat on WhatsApp"
-      >
-        <svg
-          className="w-6 h-6"
-          fill="currentColor"
-          viewBox="0 0 24 24"
-        >
-          <path d="M20 3.5A10.5 10.5 0 005.3 17.6L3 21l3.5-2.3A10.5 10.5 0 1020 3.5zm-9.2 13c-2.2-1.2-4-3.5-4.4-5.2-.1-.3.1-.5.3-.7l1.4-1.2c.2-.2.4-.1.6 0l1.1 1.2c.1.2.1.4 0 .6l-.4.8c.3.6.8 1.2 1.4 1.7s1.2.9 1.8 1.2l.7-.5c.2-.1.4-.1.6 0l1.3 1c.2.2.2.5 0 .7l-1.1 1.2c-.2.3-.5.4-.8.3-1.1-.2-2.2-.6-3.3-1.3z" />
-        </svg>
-      </a>
     </div>
   );
 };
