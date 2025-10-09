@@ -7,6 +7,7 @@ import Footer from './Components/Othersubpage/Footer';
 import WhatsAppButton from './Components/Button/WhatsAppButton';
 import About from './Components/AboutMain/About';
 import AllSaree from './Components/Othersubpage/AllSaree'
+import ContactForm from './Components/Othersubpage/ContactForm';
 const App = () => {
   return (
     <div className="flex flex-col min-h-screen">
@@ -18,6 +19,7 @@ const App = () => {
           <Route path='/about' element={<About />} />
           {/* Add other routes as needed */}
           <Route path='/gallery' element={<AllSaree />} />
+          <Route path='/contactus' element={<ContactForm />} />
         </Routes>
       </div>
 

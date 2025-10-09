@@ -32,7 +32,7 @@ const FooterNav = () => {
         <Link to="/gallery" className="hover:text-gray-400 transition">
           Gallery
         </Link>
-        <Link to="/contact" className="hover:text-gray-400 transition">
+        <Link to="/contactus" className="hover:text-gray-400 transition">
           Contact
         </Link>
       </nav>
