@@ -30,7 +30,7 @@ const ContactForm = () => {
         onSubmit={sendEmail}
         className="bg-white p-8 rounded-lg shadow-md w-full max-w-lg"
       >
-        <h2 className="text-2xl font-bold text-center mb-6 text-purple-700">
+        <h2 className="text-2xl font-bold text-center mb-6 text-pink-500">
           Contact Us
         </h2>
 
@@ -66,7 +66,7 @@ const ContactForm = () => {
 
         <button
           type="submit"
-          className="w-full bg-purple-600 text-white py-3 rounded hover:bg-purple-700 transition"
+          className="w-full bg-pink-500 text-white py-3 rounded hover:bg-purple-700 transition"
         >
           ✉️ Send Message
         </button>

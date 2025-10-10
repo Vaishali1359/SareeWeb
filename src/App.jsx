@@ -26,7 +26,7 @@ const App = () => {
       <Footer />
 
       {/* ✅ WhatsApp button appears on all pages */}
-      <WhatsAppButton number="917873943283" />
+      <WhatsAppButton number="917846954967" />
     </div>
   );
 };
