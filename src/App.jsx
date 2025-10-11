@@ -8,6 +8,8 @@ import WhatsAppButton from './Components/Button/WhatsAppButton';
 import About from './Components/AboutMain/About';
 import AllSaree from './Components/Othersubpage/AllSaree'
 import ContactForm from './Components/Othersubpage/ContactForm';
+import CallButton from './Components/Button/CallButton';
+
 const App = () => {
   return (
     <div className="flex flex-col min-h-screen">
@@ -27,6 +29,7 @@ const App = () => {
 
       {/* ✅ WhatsApp button appears on all pages */}
       <WhatsAppButton number="917846954967" />
+      <CallButton number='917846954967' />
     </div>
   );
 };
