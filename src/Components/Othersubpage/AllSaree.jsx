@@ -18,127 +18,127 @@ const allCards = [
   },
   {
     id: 4,
-    image: "https://i.pinimg.com/736x/10/ee/ae/10eeae15cb2d56d8ea4a10b54a3eab62.jpg",
+    image: "https://tse2.mm.bing.net/th/id/OIP._AjFnnZ26dGWeTk7ZdiqCwAAAA?cb=12&w=295&h=427&rs=1&pid=ImgDetMain&o=7&rm=3",
     tags: ["Occasion", "Fabric"],
   },
   {
     id: 5,
-    image: "https://i.pinimg.com/736x/90/5b/44/905b44f3f9c22e6c1ebfeef3138eeb0a.jpg",
+    image: "https://i.pinimg.com/736x/33/8a/c8/338ac8836f6a2c666315d0e74c3dcbfc.jpg",
     tags: ["Color", "Georgette"],
   },
   {
     id: 6,
-    image: "https://i.pinimg.com/736x/fc/4f/34/fc4f340e2e0ef4cf47be649e62a179b5.jpg",
+    image: "https://wallpapers.com/images/hd/saree-pictures-2skuxurf8e4e7cl4.jpg",
     tags: ["Festival", "Occasion"],
   },
   {
     id: 7,
-    image: "https://i.pinimg.com/736x/b9/fc/f8/b9fcf80b89a348cf947c53ecadfeaa3b.jpg",
+    image: "https://images.pexels.com/photos/6294504/pexels-photo-6294504.jpeg?cs=srgb&dl=pexels-zara-hamdane-6294504.jpg&fm=jpg",
     tags: ["Color", "Silk"],
   },
   {
     id: 8,
-    image: "https://i.pinimg.com/736x/72/f0/cf/72f0cf660b86171e4e2cb983330beff1.jpg",
+    image: "https://www.monastoor.com/wp-content/uploads/2023/01/GREEN-HEAVY-SILK-SAREE-1.jpeg",
     tags: ["Fabric"],
   },
   {
     id: 9,
-    image: "https://picsum.photos/500/700?random=9",
+    image: "https://assets2.andaazfashion.com/media/catalog/product/d/a/dark-purple-cotton-silk-woven-zari-traditional-indian-saree-sarv117937-1.jpg",
     tags: ["Silk", "Color"],
   },
   {
     id: 10,
-    image: "https://picsum.photos/500/700?random=10",
+    image: "https://wallpapers.com/images/hd/saree-pictures-3ojaadio0w66bft9.jpg",
     tags: ["Occasion"],
   },
   {
     id: 11,
-    image: "https://picsum.photos/500/700?random=11",
+    image: "https://i.pinimg.com/originals/61/48/4f/61484fd1299dc0d4cf24c24eb3f30ea2.jpg",
     tags: ["Festival", "Modern"],
   },
   {
     id: 12,
-    image: "https://picsum.photos/500/700?random=12",
+    image: "https://images.pexels.com/photos/28954028/pexels-photo-28954028.jpeg?cs=srgb&dl=pexels-krishna-sridhar-photographer-1233436552-28954028.jpg&fm=jpg",
     tags: ["Fabric", "Georgette"],
   },
   {
     id: 13,
-    image: "https://picsum.photos/500/700?random=13",
+    image: "https://wallpapers.com/images/hd/saree-pictures-pzo3hr5dardhb6e4.jpg",
     tags: ["Festival"],
   },
   {
     id: 14,
-    image: "https://picsum.photos/500/700?random=14",
+    image: "https://wallpaperaccess.com/full/11220424.jpg",
     tags: ["Color", "Occasion"],
   },
   {
     id: 15,
-    image: "https://picsum.photos/500/700?random=15",
+    image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihIoYVl611AlmqOaNTh2uafIXwua8Gyn-HuB-Zp7f5kGWQ-6m07cQLqQ048mhbV4ik0P6Ib4EMgKNjJ115w1toKn9sS6gatLEQ18qBtrLp8vt82Rb01UKoiEJUlrUSdwIuI2MmXGpu6TE/s1600/IMG_20200512_132524.jpg",
     tags: ["Georgette", "Modern"],
   },
   {
     id: 16,
-    image: "https://picsum.photos/500/700?random=16",
+    image: "https://www.kollybollyethnics.com/image/catalog/data/07Oct2022/Silk-Saree-with-blouse-in-Purple-colour-5418.jpg",
     tags: ["Silk", "Fabric"],
   },
   {
     id: 17,
-    image: "https://picsum.photos/500/700?random=17",
+    image: "https://i.pinimg.com/originals/c0/82/01/c082012d4fcca762f95ebc019a452009.jpg",
     tags: ["Color"],
   },
   {
     id: 18,
-    image: "https://picsum.photos/500/700?random=18",
+    image: "https://cdn.pixabay.com/photo/2015/04/08/15/18/saree-712910_1280.jpg",
     tags: ["Festival", "Occasion"],
   },
   {
     id: 19,
-    image: "https://picsum.photos/500/700?random=19",
+    image: "https://1.bp.blogspot.com/-uklza3-dftA/Xrphm2dzgnI/AAAAAAAAC-o/ZLhJmEKY9LEAC1z3QaukdFv6qV7HvEO5gCLcBGAsYHQ/s640/IMG_20200512_133106.jpg",
     tags: ["Modern"],
   },
   {
     id: 20,
-    image: "https://picsum.photos/500/700?random=20",
+    image: "https://images.pexels.com/photos/28054615/pexels-photo-28054615/free-photo-of-yellow-and-pink-silk-saree-with-gold-border.jpeg?auto=compress&cs=tinysrgb&w=800",
     tags: ["Fabric", "Color"],
   },
   {
     id: 21,
-    image: "https://picsum.photos/500/700?random=21",
+    image: "https://cdn.pixabay.com/photo/2022/10/12/07/34/saree-7515896_1280.jpg",
     tags: ["Georgette", "Festival"],
   },
   {
     id: 22,
-    image: "https://picsum.photos/500/700?random=22",
+    image: "https://1.bp.blogspot.com/-PAE5scADBEc/XrphmDRYCcI/AAAAAAAAC-g/OD7hGU_8vVQl8je4rx6-plzWf3jVzLyAgCLcBGAsYHQ/s1600/IMG_20200512_133038.jpg",
     tags: ["Silk"],
   },
   {
     id: 23,
-    image: "https://picsum.photos/500/700?random=23",
+    image: "https://cdn.pixabay.com/photo/2020/12/13/20/29/indian-saree-5829252_1280.jpg",
     tags: ["Color", "Occasion"],
   },
   {
     id: 24,
-    image: "https://picsum.photos/500/700?random=24",
+    image: "https://cdn.pixabay.com/photo/2022/11/20/06/31/woman-7603569_1280.jpg",
     tags: ["Modern", "Festival"],
   },
   {
     id: 25,
-    image: "https://picsum.photos/500/700?random=25",
+    image: "https://m.economictimes.com/thumb/msid-95668646,width-1000,height-1333,resizemode-4,imgsize-193320/find-the-best-silk-sarees-for-women-on-amazon.jpg",
     tags: ["Fabric"],
   },
   {
     id: 26,
-    image: "https://picsum.photos/500/700?random=26",
+    image: "https://images.pexels.com/photos/27954170/pexels-photo-27954170.jpeg?cs=srgb&dl=pexels-vjy-1720544836-27954170.jpg&fm=jpg",
     tags: ["Georgette"],
   },
   {
     id: 27,
-    image: "https://picsum.photos/500/700?random=27",
+    image: "https://www.samyakk.com/blog/wp-content/uploads/2023/02/re1677_1-1.jpg",
     tags: ["Color", "Silk"],
   },
   {
     id: 28,
-    image: "https://picsum.photos/500/700?random=28",
+    image: "https://cdn.pixabay.com/photo/2015/07/20/07/19/sarees-852440_1280.jpg",
     tags: ["Festival", "Fabric"],
   },
 ];
@@ -198,7 +198,7 @@ export default function GlamwizStylePage() {
             <img
               src={card.image}
               alt={`Card ${card.id}`}
-              className="w-full h-[32rem] object-cover"
+              className="w-full h-[28rem] object-top"
             />
           </div>
         ))}
