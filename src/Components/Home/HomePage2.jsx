@@ -102,7 +102,7 @@ const cardSlides = [
 
 export default function HomePage2() {
   const [cardIndex, setCardIndex] = useState(0);
-  const cardsPerPage = 4;
+  const cardsPerPage = 3;
   const maxStartIndex = cardSlides.length - cardsPerPage; // 12 - 4 = 8
 
   const nextCardGroup = () => {
